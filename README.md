@@ -64,12 +64,10 @@ chmod +x uninstall_dashboard.sh
 
 ---
 
-## ✨ Screenshots (opcional)
-
-Se quiser, adicione uma imagem do painel em funcionamento:
+## ✨ Screenshots
 
 ```
-[ terminal screenshot ]
+![Terminal Dashboard](Captura%20de%20tela%20de%202025-05-20%2022-20-59.png)
 ```
 
 ---
