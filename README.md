@@ -2,7 +2,7 @@
 
 Um painel minimalista, eficiente e 100% terminal, combinando `btop` e `lazydocker` em uma interface organizada via `tmux`.
 
-Ideal para quem quer **monitorar containers e recursos do sistema** com agilidade e estilo hacker raiz. Sem GUI, sem frescura.
+Ideal para quem quer **monitorar containers e recursos do sistema** com agilidade e estilo nerd raiz. Sem GUI, sem frescura.
 
 ---
 
