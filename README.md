@@ -66,10 +66,9 @@ chmod +x uninstall_dashboard.sh
 
 ## ✨ Screenshots
 
-```
 ![Terminal Dashboard](Captura%20de%20tela%20de%202025-05-20%2022-20-59.png)
-```
+
 
 ---
 
-Feito com café, terminal e ❤️ por [Michel Paes](https://github.com/seuuser)
+Feito com café, terminal e ❤️ por [Michel Paes](https://github.com/mrpac6689)
